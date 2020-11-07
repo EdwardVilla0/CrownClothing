@@ -1,5 +1,5 @@
 import React from 'react';
-import './homepage.styles.scss';
+import './homepage.styles.scss'
 
 const HomePage = () => (
     <div className='homepage'>
@@ -7,31 +7,31 @@ const HomePage = () => (
             <div className='menu-item'>
                 <div className='content'>
                     <h1 className='title'>Hats</h1>
-                    <span className>shop now</span>
+                    <span className='subtitle'>shop now</span>
                 </div>
             </div>
             <div className='menu-item'>
                 <div className='content'>
                     <h1 className='title'>Jackets</h1>
-                    <span className>shop now</span>
+                    <span className='subtitle'>shop now</span>
                 </div>
             </div>
             <div className='menu-item'>
                 <div className='content'>
-                    <h1 className='title'>sneackers</h1>
-                    <span className>shop now</span>
+                    <h1 className='title'>Sneackers</h1>
+                    <span className='subtitle'>shop now</span>
                 </div>
             </div>
             <div className='menu-item'>
                 <div className='content'>
-                    <h1 className='title'>mens</h1>
-                    <span className>shop now</span>
+                    <h1 className='title'>Mens</h1>
+                    <span className='subtitle'>shop now</span>
                 </div>
             </div>
             <div className='menu-item'>
                 <div className='content'>
-                    <h1 className='title'>womens</h1>
-                    <span className>shop now</span>
+                    <h1 className='title'>Womens</h1>
+                    <span className='subtitle'>shop now</span>
                 </div>
             </div>
         </div>
